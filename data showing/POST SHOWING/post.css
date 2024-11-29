@@ -1,0 +1,34 @@
+#postsContainer h4 {
+  background-color: rgb(231, 238, 17);
+  font-size: 20px;
+  width: 50px;
+  padding: 5px 15px;
+}
+#postsContainer h5 {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 18px;
+  letter-spacing: 0.5px;
+  padding: 5px 10px;
+  height: 70px;
+  width: 70%;
+  background-color: blanchedalmond;
+}
+#postsContainer p {
+  background-color: darkseagreen;
+  padding: 10px 15px;
+  font-size: 20px;
+}
+#postsContainer {
+  background-color: azure;
+  margin: 20px 40px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+#postsContainer h3 {
+  background-color: hotpink;
+  padding: 10px 20px;
+  font-weight: 900;
+  border: 2px dotted rgb(212, 160, 160);
+}
